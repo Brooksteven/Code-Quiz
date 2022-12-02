@@ -1,3 +1,6 @@
+![Watch the video](https://raw.githubusercontent.com/Brooksteven/Code-Quiz/main/Assets/04-web-apis-homework-demo.gif)
+
+
 #Code Quiz Webpage
 
 Description
