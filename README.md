@@ -23,4 +23,5 @@ Credits
 N/A
 
 License
-Please refer to the LICENSE in the repo. URL for github repository: 
+Please refer to the LICENSE in the repo. URL for github repository: https://github.com/Brooksteven/Code-Quiz
+URL for live application:
