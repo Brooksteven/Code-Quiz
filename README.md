@@ -1,5 +1,9 @@
+To access this project, you can follow the deployment link listed below. 
+
+
 ![Watch the video](https://raw.githubusercontent.com/Brooksteven/Code-Quiz/main/Assets/04-web-apis-homework-demo.gif)
 
+Screen Shot of Application.
 <img width="1440" alt="Screen Shot 2022-12-03 at 9 12 04 PM" src="https://user-images.githubusercontent.com/115267657/205470696-bb6640a4-6dc7-43b2-8784-ee3fe1a23a18.png">
 
 
